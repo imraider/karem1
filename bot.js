@@ -7,10 +7,10 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "513291439095152643"; // ايدي السررفر
-var channel = "513291621018632192";//ايدي الروم
+var server = "399584774592921620"; // ايدي السررفر
+var channel = "437328724447199242";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**Raider , Raider , Raider , Raider , Raider , Raider , Raider , Raider , Raider , Raider , Raider , Raider , Raider , Raider , Raider , Raider , Raider , Raider , **')
+    client.guilds.get(server).channels.get(channel).send('**كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , كس امكم , **')
     },305);
 })
 
